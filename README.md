@@ -1,5 +1,8 @@
 # Fraudulent-Transaction-Detector
-Machine Learning Model for Fraudulent Transactions
+#### Machine Learning Model for Fraudulent Transactions
+
+Dataset- https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 ![img](https://peughlawfirm.com/wp-content/uploads/2018/08/creditcardfraud1280-1080x675.jpg)
 
 In this project we analyze a dataset of credit card transactions made over a two-day period in September 2013 by European cardholders. The dataset contains 284,807 transactions, of which 492 (0.17%) are fraudulent.
